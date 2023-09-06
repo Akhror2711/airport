@@ -1,0 +1,45 @@
+.container{
+    width: 900px;
+    height: 210px;
+    background-color: darkgray;
+}
+
+.box1{
+        height: 80px;
+        width: 80px;
+        background-color: rgb(227, 25, 25);
+        display: inline-block;
+        margin:20px;
+        background-size: cover;
+        padding: 50px;
+}
+
+.box2{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(252, 247, 247);
+    display: inline-block;
+    margin:20px;
+    background-size: cover;
+    padding: 50px;
+}
+
+.box3{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(245, 241, 241);
+    display: inline-block;
+    margin:20px;
+    background-size: cover;
+    padding: 50px;
+}
+
+.box4{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(249, 243, 243);
+    display: inline-block;
+    margin:20px;
+    background-size: cover;
+    padding: 50px;
+}

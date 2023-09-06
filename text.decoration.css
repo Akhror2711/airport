@@ -1,0 +1,15 @@
+.box1{
+    text-decoration: overline;
+}
+
+.box2{
+    text-decoration: line-through;
+}
+
+.box3{
+    text-decoration: underline;
+}
+
+.box4{
+    text-decoration: overline underline;
+}

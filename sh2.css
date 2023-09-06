@@ -1,0 +1,24 @@
+.a{
+    box-shadow: -3px -4px 2px 4px rgb(0, 0, 0);
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 250px;
+    top: 100px;
+}
+.b{
+    box-shadow: 3px 3px 3px 3px rgb(107, 107, 107);
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 380px;
+    top: 0px;
+}
+.c{
+    box-shadow: 4px 7px 4px 4px rgb(105, 105, 105);
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 500px;
+    top: -100px;
+}

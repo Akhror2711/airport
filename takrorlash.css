@@ -1,0 +1,20 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(168,48,123,1) 46%, rgba(192,25,105,1) 83%);
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    border: solid 2px floralwhite;
+}
+
+p{
+    text-align: center;
+    padding-top: 10px;
+}

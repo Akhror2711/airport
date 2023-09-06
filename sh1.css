@@ -1,0 +1,24 @@
+.a{
+    width: 100px;
+    height: 100px;
+    box-shadow: 0px 0px 10px 3px rgb(202, 38, 194) inset;
+    position: relative;
+    background-color: aliceblue;
+    left: 150px;
+    top: 100px;
+}
+
+/* .b{
+    width: 100px;
+    height: 100px;
+    box-shadow: 0px 0px 3px 3px rgb(119, 115, 115) inset;
+    position: relative;
+    left: 220px;
+    top: -45px;
+} */
+
+/* .ccc{
+    background-color: burlywood;
+    width: 1000px;
+    height: 1000px;
+} */

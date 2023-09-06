@@ -1,0 +1,29 @@
+body{
+    height: 900px;
+    background: rgb(34,193,195);
+    background: linear-gradient(158deg, rgba(34,193,195,1) 0%, rgba(253,45,130,1) 100%);
+    background-repeat: no-repeat;
+}
+table{
+    background: rgb(34,193,195);
+    background: linear-gradient(94deg, rgba(34,193,195,1) 0%, rgba(35,197,192,1) 6%, rgba(36,200,189,1) 11%, rgb(70, 118, 229) 100%);
+    width: 800px;
+    height: 300px;
+    border-collapse: collapse;
+    position: relative;
+    top: 150px;
+    left: 250px;
+}
+tr{
+    border-bottom: 1px solid #fff;
+}
+
+td{
+    color: #fff;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+th{
+    color: #fff;
+}
